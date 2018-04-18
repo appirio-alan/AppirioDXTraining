@@ -7,4 +7,8 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Geolocation</label>
+    <tabSettings>
+        <tab>Account_Locator</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
