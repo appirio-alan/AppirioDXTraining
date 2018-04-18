@@ -1,0 +1,218 @@
+[
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app",
+        {
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524074151000,
+            "changeTime": 1524074151993,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1524074151000,
+            "changeTime": 1524074151994,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524075737779,
+            "changeTime": 1524075737779,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1524074151000,
+            "changeTime": 1524074151997,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation",
+        {
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1524074577000,
+            "changeTime": 1524074577474,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1524075737756,
+            "changeTime": 1524075737756,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9682,
+            "modifiedTime": 1524075737763,
+            "changeTime": 1524075737763,
+            "contentHash": "5eb9e989fa936da3bc64dfbaa533c57575c1dadb"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9730,
+            "modifiedTime": 1524075737770,
+            "changeTime": 1524075737770,
+            "contentHash": "ea85235aa9b2bbd40eeeed5ee4cd8d6b3afd730e"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9682,
+            "modifiedTime": 1524075737774,
+            "changeTime": 1524075737774,
+            "contentHash": "f42164533a20b2fe4ef7ac952db71c0f60433c65"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9730,
+            "modifiedTime": 1524075737778,
+            "changeTime": 1524075737778,
+            "contentHash": "d00655cb504ad32047c288cfee12cba8ea9f44b7"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1524075737779,
+            "changeTime": 1524075737779,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524075737756,
+            "changeTime": 1524075737756,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524075737755,
+            "changeTime": 1524075737755,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524075737755,
+            "changeTime": 1524075737755,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1524075737778,
+            "changeTime": 1524075737778,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524075737779,
+            "changeTime": 1524075737779,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
