@@ -5,7 +5,7 @@
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1524077051000,
+            "modifiedTime": 1524077964000,
             "changeTime": 1524074151993,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1524077051000,
+            "modifiedTime": 1524077964000,
             "changeTime": 1524074151994,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -32,28 +32,28 @@
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
-            "modifiedTime": 1524077293902,
+            "modifiedTime": 1524077964000,
             "changeTime": 1524077293902,
-            "contentHash": "b9339ff9538e43d4e1d7bae36ca34df924760ba1"
+            "contentHash": "b9339ff9538e43d4e1d7bae36ca34df924760ba1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1524077051000,
-            "changeTime": 1524077051881,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 160,
+            "modifiedTime": 1524077964000,
+            "changeTime": 1524077964146,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -62,7 +62,7 @@
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation",
             "isDirectory": true,
             "size": 384,
-            "modifiedTime": 1524077079000,
+            "modifiedTime": 1524077964000,
             "changeTime": 1524077051875,
             "contentHash": "fae5105693a53ab9cc9426fbd21320f38dda4da4",
             "isMetadataFile": false,
@@ -138,14 +138,14 @@
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 479,
             "modifiedTime": 1524077293905,
             "changeTime": 1524077293905,
-            "contentHash": "7a73005ef377514857de3e8e6e28e5a9ee410612"
+            "contentHash": "7a73005ef377514857de3e8e6e28e5a9ee410612",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -206,7 +206,7 @@
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1524075743000,
+            "modifiedTime": 1524077299000,
             "changeTime": 1524075737779,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
@@ -258,7 +258,7 @@
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1524077051000,
+            "modifiedTime": 1524077964000,
             "changeTime": 1524077051883,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
@@ -281,14 +281,14 @@
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1524077034718,
-            "changeTime": 1524077034718,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 182,
+            "modifiedTime": 1524077960048,
+            "changeTime": 1524077960048,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
         }
     ],
     [
@@ -307,14 +307,14 @@
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "size": 129,
-            "modifiedTime": 1524077048281,
-            "changeTime": 1524077048281,
-            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 132,
+            "modifiedTime": 1524077640341,
+            "changeTime": 1524077640341,
+            "contentHash": "0cb55cb06d8ce08470bae65937a3099b218615db"
         }
     ],
     [
@@ -385,27 +385,287 @@
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1524077293903,
             "changeTime": 1524077293903,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
-            "modifiedTime": 1524077293903,
+            "modifiedTime": 1524077299000,
             "changeTime": 1524077293903,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1524077937000,
+            "changeTime": 1524077937302,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1524077853000,
+            "changeTime": 1524077853928,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1524077879330,
+            "changeTime": 1524077880243,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 338,
+            "modifiedTime": 1524077896106,
+            "changeTime": 1524077896106,
+            "contentHash": "5f850e7f50fd1b0e3ea31f5dee739db02f882336"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1524077879328,
+            "changeTime": 1524077880225,
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1524077934330,
+            "changeTime": 1524077934330,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1524077879331,
+            "changeTime": 1524077880246,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1524077879330,
+            "changeTime": 1524077880240,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1524077920004,
+            "changeTime": 1524077920004,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1524077879329,
+            "changeTime": 1524077880230,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1524077879329,
+            "changeTime": 1524077880235,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1524077807996,
+            "changeTime": 1524077808996,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1524077835248,
+            "changeTime": 1524077835248,
+            "contentHash": "d5d795a58de3f756220c6eab3e80faed724900f6"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1524077807994,
+            "changeTime": 1524077808977,
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1524077850125,
+            "changeTime": 1524077850125,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1524077807997,
+            "changeTime": 1524077808999,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1524077807996,
+            "changeTime": 1524077808994,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1524077807994,
+            "changeTime": 1524077808980,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1524077807995,
+            "changeTime": 1524077808982,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alan/Documents/Training/session2/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1524077807995,
+            "changeTime": 1524077808991,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
